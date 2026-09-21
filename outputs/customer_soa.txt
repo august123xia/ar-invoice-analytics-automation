@@ -1,0 +1,43 @@
+Dear Customer A,
+
+Please find below the current statement of account summary.
+
+1. Undisputed Unpaid Invoices
+Invoice No | Due Date | Amount
+INV001 | 2026-08-01 | $1,200.00
+INV002 | 2026-08-15 | $2,500.00
+INV004 | 2026-08-25 | $800.00
+
+Total undisputed unpaid amount: $4,500.00
+
+2. Invoices Under Dispute
+Invoice No | Due Date | Amount | Reason
+INV003 | 2026-08-10 | $900.00 | Pending operational review
+INV005 | 2026-08-20 | $600.00 | Awaiting customer confirmation
+
+Total disputed amount: $1,500.00
+
+These disputed invoices are shown for visibility but are not included in the immediate payment request.
+
+3. Unused Credits
+Credit No | Amount
+CN001 | $500.00
+CN002 | $300.00
+
+Total unused credits: $800.00
+
+4. Unallocated Payments
+Payment Ref | Payment Date | Amount
+PAY001 | 2026-08-20 | $1,000.00
+PAY002 | 2026-08-28 | $400.00
+
+Total unallocated payments: $1,400.00
+
+Could you please confirm how the unused credits and unallocated payments should be allocated?
+
+After excluding invoices under dispute, unused credits, and unallocated payments, the current amount requested for payment is: $2,300.00.
+
+Please arrange payment for the undisputed overdue amount at your earliest convenience.
+
+Kind regards,
+AR Team

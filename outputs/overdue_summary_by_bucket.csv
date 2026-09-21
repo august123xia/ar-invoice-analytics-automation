@@ -1,0 +1,4 @@
+aging_bucket,amount
+90+ days,5000
+61-90 days,3500
+0-30 days,2600
