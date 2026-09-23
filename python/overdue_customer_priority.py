@@ -39,4 +39,5 @@ def generate_customer_priority_summary():
     print(f"Output file: {output_path}")
 
 
-generate_customer_priority_summary()
+if __name__ == "__main__":
+    generate_customer_priority_summary()
