@@ -65,4 +65,5 @@ def generate_aging_reports():
     print("- outputs/overdue_summary_by_bucket.csv")
 
 
-generate_aging_reports()
+if __name__ == "__main__":
+    generate_aging_report()
