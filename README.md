@@ -1,5 +1,7 @@
 # Accounts Receivable Analytics & SOA Automation
 
+[![Python Tests](https://github.com/august123xia/ar-invoice-analytics-automation/actions/workflows/python-tests.yml/badge.svg)](https://github.com/august123xia/ar-invoice-analytics-automation/actions/workflows/python-tests.yml)
+
 ## Project Overview
 
 This project is an accounts receivable automation project using Python, Pandas, SQL, SQLite, and CSV files.
@@ -113,6 +115,18 @@ Run the SQL validation scripts:
 sqlite3 sql/ar_invoice.db < sql/cte_customer_summary.sql
 sqlite3 sql/ar_invoice.db < sql/cte_aging_bucket_summary.sql
 ```
+
+
+## Testing and CI
+
+This project includes pytest tests for key business logic, including customer priority classification and aging bucket rules.
+
+Tests can be run locally with:
+
+```bash
+pytest
+
+
 
 ## Python Modules
 
